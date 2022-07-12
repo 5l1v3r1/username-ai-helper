@@ -1,0 +1,4 @@
+{
+    "skip-welcome-screen": True
+    "other-setting": True
+}
